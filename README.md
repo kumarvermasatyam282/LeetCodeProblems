@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0486-predict-the-winner) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0258-add-digits) |
 ## Minimax
 |  |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1406-stone-game-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
