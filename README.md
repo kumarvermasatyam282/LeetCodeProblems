@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0877-stone-game) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
