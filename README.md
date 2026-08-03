@@ -70,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
