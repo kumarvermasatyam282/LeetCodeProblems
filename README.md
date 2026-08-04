@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1406-stone-game-iii) |
 | [1518-water-bottles](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1518-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1518-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 ## Minimax
 |  |
 | ------- |
