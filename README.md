@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1406-stone-game-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3731-find-missing-elements](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3731-find-missing-elements](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
