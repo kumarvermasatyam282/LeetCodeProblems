@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0202-happy-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
