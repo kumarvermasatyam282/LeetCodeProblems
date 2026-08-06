@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0178-rank-scores) |
 | [0197-rising-temperature](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0197-rising-temperature) |
 ## Number Theory
 |  |
