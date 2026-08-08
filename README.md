@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0202-happy-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
