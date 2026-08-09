@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0202-happy-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0198-house-robber) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1140-stone-game-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
