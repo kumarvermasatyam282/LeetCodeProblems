@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0796-rotate-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1510-stone-game-iv) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
