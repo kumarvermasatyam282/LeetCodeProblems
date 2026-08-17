@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0075-sort-colors) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0796-rotate-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1528-shuffle-string) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2029-stone-game-ix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
