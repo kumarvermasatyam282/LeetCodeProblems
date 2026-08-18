@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1140-stone-game-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 ## Minimax
