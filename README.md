@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1154-day-of-the-year](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1154-day-of-the-year) |
 | [1528-shuffle-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1528-shuffle-string) |
+| [1556-thousand-separator](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1556-thousand-separator) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
