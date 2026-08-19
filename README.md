@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1406-stone-game-iii) |
 | [1528-shuffle-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
+| [1386-cinema-seat-allocation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
