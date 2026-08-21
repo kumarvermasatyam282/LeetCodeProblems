@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
 | ------- |
