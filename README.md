@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1927-sum-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1154-day-of-the-year) |
 | [1528-shuffle-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1556-thousand-separator) |
+| [1927-sum-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
