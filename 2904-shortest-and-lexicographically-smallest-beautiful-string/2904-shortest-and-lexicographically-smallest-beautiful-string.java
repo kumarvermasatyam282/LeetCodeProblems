@@ -1,38 +1,30 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
-        int n = s.length();
-        int left = 0;
-        int count = 0;
-
-        int minLen = Integer.MAX_VALUE;
-        String res = "";
-
-        for (int right = 0; right < n; right++) {
-            if (s.charAt(right) == '1') {
-                count++;
-            }
-
-            
-            while (count == k) {
-
-                int currLen = right - left + 1;
-                String curr = s.substring(left, right + 1);
-
-                
-                if (currLen < minLen ||
-                    (currLen == minLen && curr.compareTo(res) < 0)) {
-
-                    minLen = currLen;
-                    res = curr;
+        TreeSet<String> set=new TreeSet<>();
+        for (int i = 0; i < s.length(); i++) {
+            String ans = "";
+            int count = 0;
+            for (int j = i; j < s.length(); j++) {
+                if (s.charAt(j) == '1') {
+                    count++;
                 }
-                if (s.charAt(left) == '1') {
-                    count--;
+                ans += s.charAt(j);
+                if (count == k) {
+                    if(!set.contains(ans)) set.add(ans);
+                    break;
                 }
-
-                left++;
             }
         }
-
-        return res;
+        int minlength = Integer.MAX_VALUE;
+        StringBuilder res = new StringBuilder();
+        for (String ele : set) {
+            if (ele.length() < minlength) {
+                minlength = ele.length();
+                res = new StringBuilder(ele);
+            }
+        }
+        return res.toString();
+        
     }
+
 }
