@@ -10,7 +10,7 @@ class Solution {
                 }
                 ans += s.charAt(j);
                 if (count == k) {
-                    if(!set.contains(ans)) set.add(ans);
+                     set.add(ans);
                     break;
                 }
             }
