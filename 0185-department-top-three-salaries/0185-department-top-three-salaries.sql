@@ -9,4 +9,5 @@ where(
     select count(DISTINCT e2.Salary)
     from Employee e2
     where e2.departmentId=e.departmentId and e2.Salary>e.Salary
-)<3;
+)<3
+ORDER BY d.name, e.salary DESC;
