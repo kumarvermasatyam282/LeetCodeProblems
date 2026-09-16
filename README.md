@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1518-water-bottles) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1872-stone-game-viii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1872-stone-game-viii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -266,12 +268,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3903-smallest-stable-index-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
