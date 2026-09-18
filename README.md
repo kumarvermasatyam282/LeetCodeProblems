@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1154-day-of-the-year](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1154-day-of-the-year) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1556-thousand-separator) |
 | [1927-sum-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1927-sum-game) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
