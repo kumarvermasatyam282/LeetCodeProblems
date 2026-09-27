@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0062-unique-paths) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Geometry
 |  |
