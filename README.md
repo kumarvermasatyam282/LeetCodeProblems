@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1154-day-of-the-year](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1154-day-of-the-year) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1556-thousand-separator) |
@@ -357,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
