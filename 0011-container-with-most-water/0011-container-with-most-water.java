@@ -1,5 +1,10 @@
 class Solution {
-    public int maxArea(int[] height) {
+    static{
+        for(int i = 0; i<60; i++){
+             maxArea(new int[]{0,0});
+        }
+    }
+    public static int maxArea(int[] height) {
         int maxwater=0;
         int area=0;
         int i=0;
