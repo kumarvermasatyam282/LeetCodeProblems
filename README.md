@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0015-3sum) |
 | [0063-unique-paths-ii](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0202-happy-number) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
