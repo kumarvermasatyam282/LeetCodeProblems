@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Nim Game
 |  |
 | ------- |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
