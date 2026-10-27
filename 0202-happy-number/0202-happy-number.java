@@ -1,21 +1,23 @@
 class Solution {
-    public static int getsum(int n){
-        int sum=0;
-            while(n>0){
-                int rem=n%10;
-                sum+=rem*rem;
-                n=n/10;
-            }
-            return sum;
+    public static int SumofSquares(int n){
+        int res=0;
+        while(n>0){
+            int rem=n%10;
+            res+=rem*rem;
+            n=n/10;
+        }
+        return res;
     }
     public boolean isHappy(int n) {
+        if(n==1) return true;
         int slow=n;
-        int fast=getsum(n);
-        while(fast!=1 && slow!=fast){
-        slow=getsum(slow);
-        fast=getsum(getsum(fast));
+        int fast=n;
+        while(true){
+            slow=SumofSquares(slow);
+            fast=SumofSquares(SumofSquares(fast));
+            if(fast==1) return true;
+            if(slow==fast) return false;
         }
-        if(fast==1) return true;
-        return false;
+        // return false;
     }
 }
