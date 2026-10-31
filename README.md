@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3731-find-missing-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kumarvermasatyam282/LeetCodeProblems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Nim Game
 |  |
